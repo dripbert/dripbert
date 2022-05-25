@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dripbert
+- 🚜 Hi, I’m @dripbert
 
 <!---
 dripbert/dripbert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
